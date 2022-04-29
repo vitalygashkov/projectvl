@@ -1,0 +1,7 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M24 48C37.2548 48 48 37.2548 48 24C48 10.7452 37.2548 0 24 0C10.7452 0 0 10.7452 0 24C0 37.2548 10.7452 48 24 48Z" fill="#FCE303"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M32.332 30.0252C30.604 30.8457 28.7085 31.3032 26.6715 31.3032C23.9325 31.3032 21.387 30.4737 19.269 29.0532C17.7015 30.4527 15.633 31.3032 13.368 31.3032C8.475 31.3032 4.5 27.3297 4.5 22.4352C4.5 17.5407 8.475 13.5672 13.368 13.5672C13.6185 13.5672 13.869 13.5762 14.115 13.5972C15.933 8.41772 20.871 4.69922 26.6715 4.69922C34.014 4.69922 39.9735 10.6587 39.9735 18.0012V18.0642C42.093 19.2912 43.521 21.5847 43.521 24.2097C43.521 28.1247 40.3425 31.3032 36.4275 31.3032C34.917 31.3032 33.516 30.8307 32.3655 30.0252H32.332Z" fill="white" stroke="black" stroke-width="2" stroke-miterlimit="1.5" stroke-linecap="round"/>
+    <path d="M24 24L30 18" stroke="black" stroke-width="2" stroke-miterlimit="1.5" stroke-linejoin="round"/>
+    <path d="M21.3047 15.3047L24.0077 24.0002" stroke="black" stroke-width="2" stroke-miterlimit="1.5" stroke-linejoin="round"/>
+    <path d="M24 24V45.0615" stroke="black" stroke-width="2" stroke-miterlimit="1.5" stroke-linejoin="round"/>
+</svg>
